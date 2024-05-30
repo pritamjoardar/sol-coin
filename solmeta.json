@@ -1,0 +1,35 @@
+{
+	"name": "SON OF PONKE",
+	"symbol": "SOP",
+	"description": "SPOILED KID OF GAMBLER DAD .I am Son of Ponke My father's tantrums look like a cry baby. So Shut up and don't hesitate to gamble with me instead",
+	"seller_fee_basis_points": 0,
+	"image": "https://res.cloudinary.com/dbju6ds0a/image/upload/v1717055209/solana_coin/mta849rd581uwlsp5yrr.jpg",
+	"animation_url": null,
+	"attributes": [
+		{
+			"trait_type": "Gold",
+			"value": "100%"
+		},
+        {
+			"trait_type": "Pirate",
+			"value": "Arrr!"
+		}
+	],
+	"external_url": "https://www.solana.com",
+	"properties": {
+		"category": "image",
+		"creators": [
+			{
+				"address": "SHrLK32T45rEwJaBnksw7yoQtL1teFtZkwyeWABRGoP",
+				"verified": true,
+				"share": 100
+			}
+		],
+		"files": [
+			{
+				"type": "image/jpg",
+				"uri": "https://res.cloudinary.com/dbju6ds0a/image/upload/v1717055209/solana_coin/mta849rd581uwlsp5yrr.jpg"
+			}
+		]
+	}
+}
